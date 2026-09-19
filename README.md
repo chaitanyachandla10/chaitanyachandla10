@@ -2,7 +2,7 @@
 
 # Hi, I'm Chaitanya Chandla 👋
 
-### Full-Stack Engineer · TypeScript · Angular · Node.js
+### Senior Node.js/NestJS Backend Engineer | TypeScript | Microservices | PostgreSQL | MongoDB | AWS
 
 I build reliable web products with clear architecture, practical automation, and polished user experiences.
 
