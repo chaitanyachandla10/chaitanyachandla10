@@ -111,7 +111,7 @@ A multi-tenant commerce platform for shops to manage customers, orders, payments
 
 ### Let's discuss a backend engineering opportunity
 
-Available within 15 days and open to remote, hybrid, and on-site roles across India.
+Open to remote, hybrid, and on-site Senior Node.js/NestJS Backend Engineer roles across India.
 
 [Portfolio](https://www.chaitanyachandla.com/) · [LinkedIn](https://www.linkedin.com/in/chaitanya-chandla/) · [Email me](mailto:chaitanyachandla10@gmail.com) · [Explore repositories](https://github.com/chaitanyachandla10?tab=repositories)
 
