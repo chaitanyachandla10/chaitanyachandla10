@@ -20,7 +20,7 @@ I build reliable backend systems, integrations, commerce platforms, and producti
 <div align="center">
 
 <a href="https://www.chaitanyachandla.com/">
-  <img src="https://www.chaitanyachandla.com/og.png" alt="Chaitanya Chandla senior Node.js and NestJS backend engineer portfolio" width="900" />
+  <img src="https://www.chaitanyachandla.com/og.png?v=2" alt="Chaitanya Chandla senior Node.js and NestJS backend engineer portfolio" width="900" />
 </a>
 
 **[Visit chaitanyachandla.com](https://www.chaitanyachandla.com/)**
